@@ -1,0 +1,2 @@
+C:\Users\Usuario1\Desktop\UTN- GRAL\TPJunio2022\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Desktop\UTN- GRAL\TPJunio2022\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache

@@ -27,7 +27,16 @@ namespace Vistas_2.Vistas_Usuario
 
         protected void btn_ingresar_Click(object sender, EventArgs e)
         {
-
+            Boolean nivel;
+            nivel = neg.TipoDeUsuario(txt_alias.Text, txt_password.Text);
+            if (nivel)
+            {
+                lblChequeo.Text = "existe!";
+            }
+            else
+            {
+                lblChequeo.Text = "no esta!";
+            }
         }
     }
 }

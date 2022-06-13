@@ -120,7 +120,9 @@
                     <asp:Button ID="btn_ingresar" runat="server" Text="Ingresar" Width="108px" Height="26px" OnClick="btn_ingresar_Click" />
                 </td>
                 <td class="auto-style4"></td>
-                <td class="auto-style4"></td>
+                <td class="auto-style4">
+                    <asp:Label ID="lblChequeo" runat="server"></asp:Label>
+                </td>
                 <td class="auto-style4"></td>
                 <td class="auto-style4"></td>
                 <td class="auto-style4"></td>
