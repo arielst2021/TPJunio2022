@@ -143,16 +143,16 @@
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td class="auto-style2">&nbsp;</td>
-                <td class="auto-style5">&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
+                <td class="auto-style7"></td>
+                <td class="auto-style8"></td>
+                <td class="auto-style9"></td>
+                <td class="auto-style9"></td>
+                <td class="auto-style9"></td>
+                <td class="auto-style9"></td>
+                <td class="auto-style9"></td>
+                <td class="auto-style9"></td>
+                <td class="auto-style9"></td>
+                <td class="auto-style9"></td>
             </tr>
             <tr>
                 <td class="auto-style2">&nbsp;</td>
