@@ -1,0 +1,6 @@
+C:\Users\Usuario1\Downloads\WEB---A-TI-main\Dao\bin\Debug\Dao.dll
+C:\Users\Usuario1\Downloads\WEB---A-TI-main\Dao\bin\Debug\Dao.pdb
+C:\Users\Usuario1\Downloads\WEB---A-TI-main\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\Usuario1\Downloads\WEB---A-TI-main\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Downloads\WEB---A-TI-main\Dao\obj\Debug\Dao.dll
+C:\Users\Usuario1\Downloads\WEB---A-TI-main\Dao\obj\Debug\Dao.pdb

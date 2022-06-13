@@ -1,0 +1,37 @@
+ACA VA EL SCRIP DE LA BASE DE DATOS
+
+--                  BASE DE DATOS ECOMMERCE JUNIO 2022
+--delete
+drop database ecomerce_ayti 
+--creacion 
+create database ecomerce_ayti
+go
+
+use ecomerce_ayti
+go
+
+--TABLA CLIENTES
+create table clientes(
+cli_id int not null,
+cli_dni varchar(50),
+cli_nombre varchar(50),
+cli_apellido varchar(50),
+constraint pk_clientes primary key (cli_dni)
+)
+
+--TABLA ESTADOS
+create table estados(
+est_id int not null,
+est_nombre varchar(50),
+constraint pk_estados primary key(est_id)
+)
+
+--TABLA USUARIOS
+create table usuarios(
+usu_id int not null,
+usu_cliente_dni int not null,
+usu_perfil_id bit,
+usu_alias varchar(50),
+usu_estado bit,
+constraint pk_usuarios primary key(usu_id)
+)

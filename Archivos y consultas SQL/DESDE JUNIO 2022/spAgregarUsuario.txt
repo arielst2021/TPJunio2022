@@ -1,0 +1,33 @@
+use ecomerce_ayti
+go
+
+create procedure spAgregarUsuario
+(
+@usu_id int,
+@usu_cliente_dni int,
+@usu_perfil_id bit,
+@usu_password varchar(50),
+@usu_alias varchar(50),
+@usu_estado bit,
+@usu_nombre varchar(50)
+)
+as
+insert into usuarios
+(
+usu_cliente_dni,
+usu_perfil_id,
+usu_password,
+usu_alias,
+usu_estado,
+usu_nombre
+)
+VALUES
+(
+@usu_cliente_dni,
+@usu_perfil_id,
+@usu_password,
+@usu_alias,
+@usu_estado,
+@usu_nombre
+)
+go
